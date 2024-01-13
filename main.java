@@ -7,5 +7,7 @@ public class main{
         System.out.println(new Date());
         //this is new line
         System.out.println("this is jenkins line0");
+        student s = new student();
+        s.sayHello();
     }
 }
